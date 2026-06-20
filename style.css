@@ -1197,7 +1197,7 @@ body {
 
 .contact-wrapper {
   display: grid;
-  grid-template-columns: 1fr 1.3fr;
+  /* grid-template-columns: 1fr 1.3fr; */
   gap: 4rem;
   align-items: start;
 }
